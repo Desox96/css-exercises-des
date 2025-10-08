@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+
+.inverted, .yellowback {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.inverted {
+    background-color: black;
+    color: #ffffff;
+}
+
+.yellowback {
+    background-color: rgb(255, 255, 0);
+}
